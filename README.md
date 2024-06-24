@@ -1,4 +1,7 @@
 # CPP-project-Bookshop-Manager
+This file consist of C++ code 
+
+
 #include <iostream>
 #include <vector>
 #include <string>
